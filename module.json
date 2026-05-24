@@ -1,0 +1,20 @@
+{
+  "id": "show-players-universal",
+  "title": "Show Players Universal",
+  "description": "Adds a system-agnostic Show Players sheet header button for actors, items, and other Foundry documents.",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Local"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351",
+    "maximum": "14"
+  },
+  "socket": true,
+  "esmodules": [
+    "scripts/show-players-universal.js"
+  ]
+}
