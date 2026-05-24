@@ -2,7 +2,7 @@
 
 Standalone Foundry VTT module for Foundry V13+ that adds a system-agnostic **Show Players** button to owned document sheets.
 
-It is not tied to Plutonium or dnd5e. The module injects the button through Foundry's generic sheet header hooks and supports both legacy `Application` sheets and `ApplicationV2` header controls.
+The module injects the button through Foundry's generic sheet header hooks and supports both legacy `Application` sheets and `ApplicationV2` header controls.
 
 ## Behavior
 
